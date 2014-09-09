@@ -1,4 +1,0 @@
-FolderLockerPRO
-===============
-
-Folder Locker Pro
